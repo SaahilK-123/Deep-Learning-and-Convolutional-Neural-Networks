@@ -1,0 +1,9 @@
+ultralytics
+opencv-python
+pyttsx3 
+Pillow 
+customtkinter 
+flask 
+flask-socketio 
+numpy
+jupyter
